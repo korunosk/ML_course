@@ -5,7 +5,7 @@ In order to implement the algorithms seen in class and work on the projects, we'
 ## The environment
 
 ### Python distribution: Anaconda
-We will be using the [Anaconda](https://www.continuum.io/) distribution to run Python 3, as it is easy to install and comes with most packages we will need. To install Anaconda, go to [the download page](https://www.continuum.io/downloads) and get the Python installer for your OS - make sure to use the newer version 3.x, not 2.x. Follow the instructions of the installer and you're done.
+We will be using the [Anaconda](https://www.continuum.io/) distribution to run Python 3, as it is easy to install and comes with most packages we will need. To install Anaconda, go to [the download page](https://www.anaconda.com/distribution/) and get the Python installer for your OS - make sure to use the newer version 3.x, not 2.x. Follow the instructions of the installer and you're done.
 > **Warning!** The installer will ask you if you want to add Anaconda to your path. Your default answer should be yes, unless you have specific reasons not to want this.
 
 
@@ -24,7 +24,7 @@ For additional resources on how the notebook system works, we recommend
 
 We provide you with an example of a notebook for [this first lab](https://github.com/epfml/ML_course/tree/master/labs/ex01), but if you want to see some more examples already, feel free to take a look at
 
-* The introductory notebooks available at [Try Jupiter](https://try.jupyter.org/). It spawns an instance of the Jupyter Notebook, which won't save any of your changes.
+* The introductory notebooks available at [Try Jupyter](https://try.jupyter.org/). It spawns an instance of the Jupyter Notebook, which won't save any of your changes.
   *Note: it might not be available if their server is under too much load.*
 * [A gallery of interesting IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) by the Ipython Notebook team
 
