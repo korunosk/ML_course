@@ -6,8 +6,8 @@ def compute_loss(y, tx, w):
 
     You can calculate the loss using mse or mae.
     """
-    # ***************************************************
-    # INSERT YOUR CODE HERE
-    # TODO: compute loss by MSE / MAE
-    # ***************************************************
-    raise NotImplementedError
+    N = y.shape[0]
+    
+    e = y - np.matmul(tx, w)
+    
+    return 1.0 / (2*N) * np.sum( e ** 2 )
